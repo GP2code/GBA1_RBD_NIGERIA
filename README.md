@@ -1,16 +1,15 @@
 # GBA1_RBD_NIGERIA
 
 `GP2 ❤️ Open Science 😍`
+[![DOI](https://zenodo.org/badge/699399091.svg)](https://zenodo.org/badge/latestdoi/699399091)
+
+**Last Updated:** October 2023 
 
 ## Summary
 This is the online repository for the manuscript titled ***The non-coding GBA1 rs3115534 variant is associated with REM sleep behavior disorder in the Nigerian population***. This study focuses on investigating whether the GBA1 rs3115534 variant recently associated with Parkinson's disease risk in the Nigerian population (PMID: 37398408) is associated with REM Sleep Behavior Disorder.
 
-XXX Zenodo link
-
-**Last Updated:** October 2023 
-
 ### Data Statement 
-Nigerian data was part of the release 5 GP2 data (access-controlled via single-sign on on amp-pd.org).
+Nigerian data (DOI 10.5281/zenodo.7904832, release 5) used in the preparation of this project was obtained from the Global Parkinson’s Genetics Program (GP2). This data is access-controlled via single-sign on on amp-pd.org.
 
 ### Helpful Links 
 - [GP2 Website](https://gp2.org/)
