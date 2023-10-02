@@ -30,8 +30,6 @@ Nigerian data was part of the release 5 GP2 data (access-controlled via single-s
 
 # Software 
 
-|               Software              |      Version(s)     |                       Resource URL                       |       RRID      |                                               Notes                                               |
-|:-----------------------------------:|:-------------------:|:--------------------------------------------------------:|:---------------:|:-------------------------------------------------------------------------------------------------:|               |
 |                PLINK                | 1.7 and 1.9 and 2.0 |            http://www.nitrc.org/projects/plink           | RRID:SCR_001757 |                                     used for genetic analyses                                     |
 |     Python Programming Language     |     3.8 and 3.9     |                  http://www.python.org/                  | RRID:SCR_008394 | pandas; numpy; seaborn; matplotlib; statsmodel; used for general data wrangling/plotting/analyses |
 | R Project for Statistical Computing |         4.2         |                 http://www.r-project.org/                | RRID:SCR_001905 |   tidyverse; dplyr; tidyr; ggplot; data.table; used for general data wrangling/plotting/analyses  |
